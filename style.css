@@ -288,6 +288,10 @@ header {
         align-items: center;
 
     }
+     .about-text {
+        text-align: center;
+
+    }
 }
 @media (max-width:360px) {
     header {
